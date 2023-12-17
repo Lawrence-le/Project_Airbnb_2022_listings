@@ -14,5 +14,3 @@ Revenue Impact: Understand the crucial aspects that directly impact revenue, hel
 Neighbourhood Groups Trends: Analyze the occupancy rates in different neighbourhood groups, identifying importance contributing factors to occupancy rates.
 
 Influencing Factors: Explore the factors that influence the occupancy rates.
-
-theme: jekyll-theme-cayman
