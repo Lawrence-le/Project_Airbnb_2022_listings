@@ -15,6 +15,11 @@ Neighbourhood Groups Trends: Analyze the occupancy rates in different neighbourh
 
 Influencing Factors: Explore the factors that influence the occupancy rates.
 
-# Dashboard
-
+## Dashboard
 ![](https://github.com/Lawrence-le/Project_Airbnb_2022_listings/blob/image/dashboard.jpg)
+
+## Findings
+![](https://github.com/Lawrence-le/Project_Airbnb_2022_listings/blob/image/sheet1.jpg)
+![](https://github.com/Lawrence-le/Project_Airbnb_2022_listings/blob/image/sheet2.jpg)
+![](https://github.com/Lawrence-le/Project_Airbnb_2022_listings/blob/image/sheet3.jpg)
+
