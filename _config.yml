@@ -1,2 +1,5 @@
-title: Airbnb Listings in Singapore (2022) Power BI Visualization
-theme: jekyll-theme-minimal
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
