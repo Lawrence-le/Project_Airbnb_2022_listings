@@ -2,7 +2,7 @@
 Overview
 This GitHub repository hosts a Power BI visualization project focused on Airbnb listings in Singapore for the year 2022. The primary objective of this project is to answer a critical business question: "What are the factors that affect occupancy rates, significantly impacting revenue for Airbnb hosts in Singapore?"
 
-#Key Features
+# Key Features
 Interactive Visualization: Dive into the data with an intuitive Power BI dashboard, providing an in-depth exploration of Airbnb listings in Singapore.
 
 Occupancy Rate Analysis: Uncover the factors influencing occupancy rates, allowing hosts to make data-driven decisions for optimizing revenue.
