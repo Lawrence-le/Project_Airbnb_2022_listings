@@ -22,4 +22,5 @@ Influencing Factors: Explore the factors that influence the occupancy rates.
 ![](/image/sheet1.jpg)
 ![](/image/sheet2.jpg)
 ![](/image/sheet3.jpg)
+![](/image/sheet4.jpg)
 
