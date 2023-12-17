@@ -1,4 +1,4 @@
-# Airbnb Listings in Singapore (2022) Power BI Visualization [https://github.com/Lawrence-le/Project_Airbnb_2022_listings_site]
+# [Airbnb Listings in Singapore (2022) Power BI Visualization](https://github.com/Lawrence-le/Project_Airbnb_2022_listings)
 
 ## Overview
 This GitHub repository hosts a Power BI visualization project focused on Airbnb listings in Singapore for the year 2022. The primary objective of this project is to answer a critical business question: "What are the factors that affect occupancy rates, significantly impacting revenue for Airbnb hosts in Singapore?"
