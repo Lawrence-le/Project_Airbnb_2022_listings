@@ -16,7 +16,7 @@ Neighbourhood Groups Trends: Analyze the occupancy rates in different neighbourh
 Influencing Factors: Explore the factors that influence the occupancy rates.
 
 ## Dashboard
-![](blob/image/dashboard.jpg)
+![](/image/dashboard.jpg)
 
 ## Findings
 ![](blob/image/sheet1.jpg)
