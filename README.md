@@ -14,3 +14,7 @@ Revenue Impact: Understand the crucial aspects that directly impact revenue, hel
 Neighbourhood Groups Trends: Analyze the occupancy rates in different neighbourhood groups, identifying importance contributing factors to occupancy rates.
 
 Influencing Factors: Explore the factors that influence the occupancy rates.
+
+# Dashboard
+
+![](https://github.com/Lawrence-le/Project_Airbnb_2022_listings/blob/image/dashboard.jpg)
